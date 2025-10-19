@@ -47,13 +47,13 @@
 ## Notice: You have to notice those condition below to make sure application runs:
 
 **1.** When run file if you facing error you should open full folder in you IDE for making sure file reading is success
-   Folder structure in your IDE should be like this:
-         EX2
-         |---RaidenEi
-             |--- (other files)
-         |---README.md
-         |---Model
-             |--- trans.py
+   Folder structure in your IDE should be like this:<br>
+         EX2<br>
+         |---RaidenEi<br>
+         &nbsp;&nbsp;&nbsp;&nbsp;|--- (other files)<br>
+         |---README.md<br>
+         |---Model<br>
+         &nbsp;&nbsp;&nbsp;&nbsp;|--- trans.py<br>
 
 **2.** You have to trust (in case the window pop up to asking for trusting the source) or else it won't run.
 
