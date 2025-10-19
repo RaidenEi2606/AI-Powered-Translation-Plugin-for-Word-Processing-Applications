@@ -56,6 +56,7 @@
              |--- trans.py
 
 **2.** You have to trust (in case the window pop up to asking for trusting the source) or else it won't run.
+
 **3.** In case the facebook/nllb-200-1.3B model is too large (around 5.84GB) or if any installation issues arise that could affect the evaluation process, I have recorded a demo showcasing the implemented features to facilitate the assessment by the instructors. 
 Link: https://youtu.be/sCFfCvbbRyY
 
